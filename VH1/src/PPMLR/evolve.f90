@@ -15,6 +15,7 @@ REAL :: dtheta
 REAL, DIMENSION(maxsweep) :: umid, pmid, amid, uold, xa1, dvol1, upmid, dm, dtbdm
 REAL, DIMENSION(maxsweep) :: grav0, grav1, xa2, fict0, fict1, xa3
 REAL, PARAMETER :: third = 1.0 / 3.0
+REAL :: tmp1, tmp2, tmp3
 
 !------------------------------------------------------------------------
 
@@ -78,6 +79,10 @@ do n = nmin-3, nmax+3
 
   uold (n) = u(n)
   u(n) = u(n) - dtbdm(n)*(pmid(n+1)-pmid(n))*0.5*(amid(n+1)+amid(n)) + 0.5*dt*(grav0(n)+fict0(n)+grav1(n)+fict1(n))
+!  tmp1 = - dtbdm(n)*(pmid(n+1)-pmid(n))*0.5*(amid(n+1)+amid(n)) 
+!  tmp2 = - 0.5*dt*(grav0(n)+fict0(n)+grav1(n)+fict1(n))
+!  tmp3 = (tmp1/tmp2)-1
+!write(*,*) tmp1, tmp2, tmp3, 0.5*(grav1(n)+grav0(n))
 
 ! total energy evolution
 

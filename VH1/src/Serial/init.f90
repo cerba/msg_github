@@ -47,14 +47,22 @@ nrighty = 3
 nleftz = 3
 nrightz = 3
 
+! Set up parameters from the problem (Pressure Wave)
+pright = smallp
+dright = smallr
+pleft  = 0.138                    !kb*10**15
+dleft  = 5e-16                    !10**-9/tcor
+
 pinflo = pleft
 dinflo = dleft
 uinflo = 0.0
 vinflo = 0.0
 winflo = 0.0
+potflo = pinflo/1e+10
+dotflo = dinflo/1e+10
 
 xmin   = 1.0*rsol
-xmax   = 100.0*rsol
+xmax   = 20.0*rsol
 ymin   = 0.0
 ymax   = 1.0
 zmin   = 0.0
@@ -73,12 +81,7 @@ endif
 !======================================================================
 ! Set up parameters from the problem (Pressure Wave)
 
-pright = smallp 
-dright = smallr
-pleft  = 0.138                    !kb*10**15
-dleft  = 5e-16                    !10**-9/tcor
 gam    = 1.01
-
 gamm = gam - 1
 
 !=======================================================================
@@ -122,7 +125,9 @@ write (8,*)
 ! initialize grid:
 
 a2 = (kb*tcor)/mu
-ve2b2a2 = (G*msol)/(2*rsol*a2)
+ve2b2a2 = (G*msol)/(rsol*a2)
+
+write(*,*) "a2 = ", a2, "ve2b2a2 = ", ve2b2a2
 
 do k = 1, kmax
  do j = 1, jmax

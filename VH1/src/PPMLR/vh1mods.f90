@@ -39,7 +39,7 @@ module sweepsize
 ! ie, must have maxsweep >= max(imax,jmax,kmax) + 12
 !----------------------------------------------------------------------
 
-integer, parameter :: maxsweep=1036 
+integer, parameter :: maxsweep=2012
 
 end module sweepsize
 

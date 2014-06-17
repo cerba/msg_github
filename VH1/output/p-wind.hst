@@ -1,0 +1,35 @@
+ History File for VH-1 simulation run on 06 / 17 / 2014
+
+Oblique Pressure Wave in 1 dimensions.
+Grid dimensions: 2000
+
+Ratio of specific heats = 1.010
+Pressure ratio is 0.000
+Density ratio is 0.000
+
+Wrote   p-wind1000.dat to disk at time = 0.00000E+00 (ncycle =      0)
+Wrote   p-wind1001.dat to disk at time = 5.00000E+03 (ncycle =    396)
+Wrote   p-wind1002.dat to disk at time = 1.00000E+04 (ncycle =    798)
+Wrote   p-wind1003.dat to disk at time = 1.50000E+04 (ncycle =   1200)
+Wrote   p-wind1004.dat to disk at time = 2.00000E+04 (ncycle =   1604)
+Wrote   p-wind1005.dat to disk at time = 2.50000E+04 (ncycle =   2008)
+Wrote   p-wind1006.dat to disk at time = 3.00000E+04 (ncycle =   2414)
+Wrote   p-wind1007.dat to disk at time = 3.50000E+04 (ncycle =   2820)
+Wrote   p-wind1008.dat to disk at time = 4.00001E+04 (ncycle =   3228)
+Wrote   p-wind1009.dat to disk at time = 4.50000E+04 (ncycle =   3638)
+Wrote   p-wind1010.dat to disk at time = 5.00000E+04 (ncycle =   4050)
+Wrote   p-wind1011.dat to disk at time = 5.49999E+04 (ncycle =   4462)
+Wrote   p-wind1012.dat to disk at time = 6.00000E+04 (ncycle =   4876)
+Wrote   p-wind1013.dat to disk at time = 6.50000E+04 (ncycle =   5292)
+Wrote   p-wind1014.dat to disk at time = 7.00001E+04 (ncycle =   5710)
+Wrote   p-wind1015.dat to disk at time = 7.50001E+04 (ncycle =   6130)
+Wrote   p-wind1016.dat to disk at time = 8.00001E+04 (ncycle =   6552)
+Wrote   p-wind1017.dat to disk at time = 8.50000E+04 (ncycle =   6974)
+Wrote   p-wind1018.dat to disk at time = 8.99999E+04 (ncycle =   7398)
+Wrote   p-wind1019.dat to disk at time = 9.49998E+04 (ncycle =   7824)
+ cutting to the end...        8252    10000000
+Wrote   p-wind1020.dat to disk at time = 1.00000E+05 (ncycle =   8252)
+ Dumped p-winddaa at cycle         8252
+ successful stop at cycle number        8252
+ elapsed time =   0.3092960      minutes
+speed = 889.3 kz/s

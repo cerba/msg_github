@@ -21,7 +21,7 @@ module global
 
  real, parameter :: G = 6.674e-8            ! Define Other Variables (defined in cgs)
  real, parameter :: msol = 1.989e+33
- real, parameter :: k = 1.380658e-16
+ real, parameter :: kb = 1.380658e-16
  real, parameter :: tsurf = 5800.0
  real, parameter :: tcor = 2.0e+6
  real, parameter :: rsol = 6.955e+10
