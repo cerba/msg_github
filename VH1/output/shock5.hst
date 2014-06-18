@@ -1,0 +1,65 @@
+ History File for VH-1 simulation run on 06 / 18 / 2014
+
+Oblique Pressure Wave in 1 dimensions.
+Grid dimensions: 2000
+
+Ratio of specific heats = 1.010
+Pressure ratio is 0.000
+Density ratio is 0.000
+
+Wrote   shock51000.dat to disk at time = 0.00000E+00 (ncycle =      0)
+Wrote   shock51001.dat to disk at time = 5.00000E+03 (ncycle =    254)
+Wrote   shock51002.dat to disk at time = 9.99998E+03 (ncycle =    508)
+Wrote   shock51003.dat to disk at time = 1.50000E+04 (ncycle =    762)
+Wrote   shock51004.dat to disk at time = 2.00000E+04 (ncycle =   1016)
+Wrote   shock51005.dat to disk at time = 2.50000E+04 (ncycle =   1270)
+Wrote   shock51006.dat to disk at time = 3.00000E+04 (ncycle =   1524)
+Wrote   shock51007.dat to disk at time = 3.49998E+04 (ncycle =   1778)
+Wrote   shock51008.dat to disk at time = 3.99999E+04 (ncycle =   2032)
+Wrote   shock51009.dat to disk at time = 4.49998E+04 (ncycle =   2286)
+Wrote   shock51010.dat to disk at time = 4.99999E+04 (ncycle =   2540)
+Wrote   shock51011.dat to disk at time = 5.49998E+04 (ncycle =   2794)
+Wrote   shock51012.dat to disk at time = 5.99999E+04 (ncycle =   3048)
+Wrote   shock51013.dat to disk at time = 6.49998E+04 (ncycle =   3302)
+Wrote   shock51014.dat to disk at time = 6.99996E+04 (ncycle =   3556)
+Wrote   shock51015.dat to disk at time = 7.49991E+04 (ncycle =   3810)
+Wrote   shock51016.dat to disk at time = 7.99990E+04 (ncycle =   4064)
+Wrote   shock51017.dat to disk at time = 8.49990E+04 (ncycle =   4318)
+Wrote   shock51018.dat to disk at time = 8.99990E+04 (ncycle =   4572)
+Wrote   shock51019.dat to disk at time = 9.49991E+04 (ncycle =   4826)
+Wrote   shock51020.dat to disk at time = 9.99997E+04 (ncycle =   5080)
+Wrote   shock51021.dat to disk at time = 1.05000E+05 (ncycle =   5346)
+Wrote   shock51022.dat to disk at time = 1.10000E+05 (ncycle =   5638)
+Wrote   shock51023.dat to disk at time = 1.15000E+05 (ncycle =   5950)
+Wrote   shock51024.dat to disk at time = 1.20000E+05 (ncycle =   6280)
+Wrote   shock51025.dat to disk at time = 1.25000E+05 (ncycle =   6628)
+Wrote   shock51026.dat to disk at time = 1.30000E+05 (ncycle =   6994)
+Wrote   shock51027.dat to disk at time = 1.35000E+05 (ncycle =   7378)
+Wrote   shock51028.dat to disk at time = 1.40000E+05 (ncycle =   7780)
+Wrote   shock51029.dat to disk at time = 1.44999E+05 (ncycle =   8196)
+Wrote   shock51030.dat to disk at time = 1.49999E+05 (ncycle =   8624)
+Wrote   shock51031.dat to disk at time = 1.54999E+05 (ncycle =   9060)
+Wrote   shock51032.dat to disk at time = 1.59999E+05 (ncycle =   9502)
+Wrote   shock51033.dat to disk at time = 1.64999E+05 (ncycle =   9946)
+Wrote   shock51034.dat to disk at time = 1.70000E+05 (ncycle =  10392)
+Wrote   shock51035.dat to disk at time = 1.74998E+05 (ncycle =  10838)
+Wrote   shock51036.dat to disk at time = 1.79997E+05 (ncycle =  11284)
+Wrote   shock51037.dat to disk at time = 1.84997E+05 (ncycle =  11730)
+Wrote   shock51038.dat to disk at time = 1.89997E+05 (ncycle =  12174)
+Wrote   shock51039.dat to disk at time = 1.94997E+05 (ncycle =  12618)
+Wrote   shock51040.dat to disk at time = 1.99997E+05 (ncycle =  13062)
+Wrote   shock51041.dat to disk at time = 2.04997E+05 (ncycle =  13506)
+Wrote   shock51042.dat to disk at time = 2.09998E+05 (ncycle =  13948)
+Wrote   shock51043.dat to disk at time = 2.14998E+05 (ncycle =  14390)
+Wrote   shock51044.dat to disk at time = 2.19998E+05 (ncycle =  14832)
+Wrote   shock51045.dat to disk at time = 2.24998E+05 (ncycle =  15272)
+Wrote   shock51046.dat to disk at time = 2.29998E+05 (ncycle =  15712)
+Wrote   shock51047.dat to disk at time = 2.34998E+05 (ncycle =  16152)
+Wrote   shock51048.dat to disk at time = 2.39998E+05 (ncycle =  16590)
+Wrote   shock51049.dat to disk at time = 2.44998E+05 (ncycle =  17028)
+ cutting to the end...       17466  1000000000
+Wrote   shock51050.dat to disk at time = 2.50000E+05 (ncycle =  17466)
+ Dumped shock5daa at cycle        17466
+ successful stop at cycle number       17466
+ elapsed time =   0.6748749      minutes
+speed = 862.7 kz/s

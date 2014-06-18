@@ -5,6 +5,6 @@
  ndump   = 5000000
  nprin   = 5000000
  nmovie  = 100000
- endtime = 10000
- tprin   = 1000
+ endtime = 100000
+ tprin   = 5000
  tmovie  = 9.9e+19 /

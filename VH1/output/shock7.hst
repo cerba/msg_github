@@ -1,0 +1,65 @@
+ History File for VH-1 simulation run on 06 / 18 / 2014
+
+Oblique Pressure Wave in 1 dimensions.
+Grid dimensions: 2000
+
+Ratio of specific heats = 1.010
+Pressure ratio is 0.000
+Density ratio is 0.000
+
+Wrote   shock71000.dat to disk at time = 0.00000E+00 (ncycle =      0)
+Wrote   shock71001.dat to disk at time = 5.00000E+03 (ncycle =    254)
+Wrote   shock71002.dat to disk at time = 9.99998E+03 (ncycle =    508)
+Wrote   shock71003.dat to disk at time = 1.50000E+04 (ncycle =    762)
+Wrote   shock71004.dat to disk at time = 2.00000E+04 (ncycle =   1016)
+Wrote   shock71005.dat to disk at time = 2.50000E+04 (ncycle =   1270)
+Wrote   shock71006.dat to disk at time = 3.00000E+04 (ncycle =   1524)
+Wrote   shock71007.dat to disk at time = 3.49998E+04 (ncycle =   1778)
+Wrote   shock71008.dat to disk at time = 3.99999E+04 (ncycle =   2032)
+Wrote   shock71009.dat to disk at time = 4.49998E+04 (ncycle =   2286)
+Wrote   shock71010.dat to disk at time = 4.99999E+04 (ncycle =   2540)
+Wrote   shock71011.dat to disk at time = 5.49998E+04 (ncycle =   2794)
+Wrote   shock71012.dat to disk at time = 5.99999E+04 (ncycle =   3048)
+Wrote   shock71013.dat to disk at time = 6.49998E+04 (ncycle =   3302)
+Wrote   shock71014.dat to disk at time = 6.99996E+04 (ncycle =   3556)
+Wrote   shock71015.dat to disk at time = 7.49991E+04 (ncycle =   3810)
+Wrote   shock71016.dat to disk at time = 7.99990E+04 (ncycle =   4064)
+Wrote   shock71017.dat to disk at time = 8.49990E+04 (ncycle =   4318)
+Wrote   shock71018.dat to disk at time = 8.99990E+04 (ncycle =   4572)
+Wrote   shock71019.dat to disk at time = 9.49994E+04 (ncycle =   4826)
+Wrote   shock71020.dat to disk at time = 1.00000E+05 (ncycle =   5080)
+Wrote   shock71021.dat to disk at time = 1.05001E+05 (ncycle =   5334)
+Wrote   shock71022.dat to disk at time = 1.10001E+05 (ncycle =   5588)
+Wrote   shock71023.dat to disk at time = 1.15001E+05 (ncycle =   5850)
+Wrote   shock71024.dat to disk at time = 1.20001E+05 (ncycle =   6124)
+Wrote   shock71025.dat to disk at time = 1.25001E+05 (ncycle =   6406)
+Wrote   shock71026.dat to disk at time = 1.30001E+05 (ncycle =   6694)
+Wrote   shock71027.dat to disk at time = 1.35001E+05 (ncycle =   6986)
+Wrote   shock71028.dat to disk at time = 1.40001E+05 (ncycle =   7278)
+Wrote   shock71029.dat to disk at time = 1.45001E+05 (ncycle =   7570)
+Wrote   shock71030.dat to disk at time = 1.50001E+05 (ncycle =   7860)
+Wrote   shock71031.dat to disk at time = 1.55001E+05 (ncycle =   8146)
+Wrote   shock71032.dat to disk at time = 1.60001E+05 (ncycle =   8428)
+Wrote   shock71033.dat to disk at time = 1.65001E+05 (ncycle =   8704)
+Wrote   shock71034.dat to disk at time = 1.70001E+05 (ncycle =   8976)
+Wrote   shock71035.dat to disk at time = 1.75001E+05 (ncycle =   9240)
+Wrote   shock71036.dat to disk at time = 1.80001E+05 (ncycle =   9496)
+Wrote   shock71037.dat to disk at time = 1.84999E+05 (ncycle =   9750)
+Wrote   shock71038.dat to disk at time = 1.90001E+05 (ncycle =  10004)
+Wrote   shock71039.dat to disk at time = 1.95003E+05 (ncycle =  10258)
+Wrote   shock71040.dat to disk at time = 2.00005E+05 (ncycle =  10512)
+Wrote   shock71041.dat to disk at time = 2.05006E+05 (ncycle =  10766)
+Wrote   shock71042.dat to disk at time = 2.10008E+05 (ncycle =  11020)
+Wrote   shock71043.dat to disk at time = 2.15009E+05 (ncycle =  11274)
+Wrote   shock71044.dat to disk at time = 2.20011E+05 (ncycle =  11528)
+Wrote   shock71045.dat to disk at time = 2.25012E+05 (ncycle =  11782)
+Wrote   shock71046.dat to disk at time = 2.30013E+05 (ncycle =  12036)
+Wrote   shock71047.dat to disk at time = 2.35014E+05 (ncycle =  12290)
+Wrote   shock71048.dat to disk at time = 2.40015E+05 (ncycle =  12544)
+Wrote   shock71049.dat to disk at time = 2.45016E+05 (ncycle =  12798)
+ cutting to the end...       13050  1000000000
+Wrote   shock71050.dat to disk at time = 2.50000E+05 (ncycle =  13050)
+ Dumped shock7daa at cycle        13050
+ successful stop at cycle number       13050
+ elapsed time =   0.5061296      minutes
+speed = 859.5 kz/s

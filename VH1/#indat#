@@ -1,0 +1,10 @@
+&hinput
+ rstrt   = 'no'
+ prefix  = 'p-wind'
+ ncycend = 10000000
+ ndump   = 5000000
+ nprin   = 5000000
+ nmovie  = 100000
+ endtime = 1000000
+ tprin   = 50000
+ tmovie  = 9.9e+19 /
